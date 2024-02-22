@@ -1,0 +1,36 @@
+.add-property-form {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .add-property-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-property-form input[type="text"],
+  .add-property-form input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-property-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .add-property-form button:hover {
+    background-color: #0056b3;
+  }
+  

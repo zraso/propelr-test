@@ -1,0 +1,25 @@
+.property-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .property-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .property-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .property-address {
+    font-weight: bold;
+  }
+  
+  .property-price {
+    color: #007bff;
+  }
